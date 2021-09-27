@@ -1,2 +1,5 @@
 # xyz-to-mbtiles
-Generates an MBTiles file from TMS XYZ tiles
+
+Generates zoom based MBTiles files from TMS styled XYZ PNG tile images.
+
+Make sure to change the paths and zoom levels before running.
